@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🔹 Skills & Tools
-- **Languages**: Python, Java, C++ (beginner–intermediate)
+- **Languages**: Java (beginner–intermediate)
 - **Cybersecurity Tools**: Wireshark, Nmap (learning)
 - **Other**: Git/GitHub, Linux, Networking basics
 
